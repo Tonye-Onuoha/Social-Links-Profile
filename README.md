@@ -6,13 +6,13 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+-   [Overview](#overview)
+    -   [Screenshot](#screenshot)
+    -   [Links](#links)
+-   [My process](#my-process)
+    -   [Built with](#built-with)
+    -   [Useful resources](#useful-resources)
+-   [Author](#author)
 
 ## Overview
 
@@ -24,7 +24,7 @@ This is a simple HTML and CSS project in which the main objective is to build ou
 
 ### Links
 
-- Live Site URL: [Vercel]()
+-   Live Site URL: [Vercel](https://social-links-profile-dusky-three.vercel.app/)
 
 ## My process
 
@@ -33,14 +33,14 @@ and broke down the styling of elements one piece at a time.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+-   Semantic HTML5 markup
+-   CSS custom properties
+-   Flexbox
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com/)
+-   [W3Schools](https://www.w3schools.com/)
 
 ## Author
 
-- Email Address - [tonyeonuoha@gmail.com](tonyeonuoha@gmail.com)
+-   Email Address - [tonyeonuoha@gmail.com](tonyeonuoha@gmail.com)
