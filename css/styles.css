@@ -1,0 +1,128 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-size: 14px;
+}
+
+.inter-font {
+  font-family: "Inter", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+main {
+    background-color: hsl(0, 0%, 8%);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    max-width: 80%;
+    width: 75%;
+    height: 600px;
+    padding: 25px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: hsl(0, 0%, 12%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    text-align: center;
+}
+
+.profile-container {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.profile-info {
+    width: 100%;
+}
+
+.profile-info > .location {
+    margin-top: 0.5em;
+}
+
+.profile-info > p {
+    color: hsl(75, 94%, 57%);
+    font-weight: 700;
+    width: 100%;
+}
+
+.profile-about {
+    font-weight: 400;
+    width: 100%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.links-container {
+    height: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.links-container > p {
+    padding: 1.3em;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.links-container > p:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+    cursor: pointer;
+}
+
+@media screen and (min-width: 576px) {
+    .container {
+        width: 60%;
+    }
+}
+
+@media screen and (min-width: 640px) {
+    .container {
+        width: 55%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 45%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        width: 35%;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .container {
+        width: 25%;
+    }
+}
